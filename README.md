@@ -1,1 +1,2 @@
 # Database-For-Airline_Company
+This database is designed for air companies to manage booking records, tickets and flights information in one system. Employees can not only put the booking records into a table, but also retrieve the ticket information of a customer. In addition, through this database, employees can analyze the target customer of a specific flight which is quite important for marketing. 
